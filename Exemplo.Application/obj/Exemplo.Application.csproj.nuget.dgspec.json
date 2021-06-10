@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/Exemplo.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/Exemplo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/Exemplo.Application.csproj",
+        "projectName": "Exemplo.Application",
+        "projectPath": "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/Exemplo.Application.csproj",
+        "packagesPath": "/Users/yanjustino/.nuget/packages/",
+        "outputPath": "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yanjustino/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

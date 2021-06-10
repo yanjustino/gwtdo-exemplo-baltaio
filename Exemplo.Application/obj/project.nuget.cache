@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XMCZdsvc++UikvINDW8hyybvu6dNZlbWcju7bWisMBuu/R+zGzty2E1/9yfCGLxqqEN0E4EC6wEHV2iAE5KrPA==",
+  "success": true,
+  "projectFilePath": "/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/Exemplo.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/yanjustino/.nuget/packages/flunt/2.0.3/flunt.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

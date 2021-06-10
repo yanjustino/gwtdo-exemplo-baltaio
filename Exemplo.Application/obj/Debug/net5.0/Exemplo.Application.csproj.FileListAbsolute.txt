@@ -1,0 +1,12 @@
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/bin/Debug/net5.0/Exemplo.Application.deps.json
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/bin/Debug/net5.0/Exemplo.Application.dll
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/bin/Debug/net5.0/ref/Exemplo.Application.dll
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/bin/Debug/net5.0/Exemplo.Application.pdb
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.csprojAssemblyReference.cache
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.AssemblyInfoInputs.cache
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.AssemblyInfo.cs
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.csproj.CoreCompileInputs.cache
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.dll
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/ref/Exemplo.Application.dll
+/Users/yanjustino/Projects/dev.yanjustino/presentations/GwtDo.Exemplo/Exemplo.Application/obj/Debug/net5.0/Exemplo.Application.pdb
